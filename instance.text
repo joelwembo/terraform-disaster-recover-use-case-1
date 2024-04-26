@@ -1,0 +1,7 @@
+Name: reactapplication
+Instance ID: i-01e065d1613af3a39
+Type: t2.micro
+VPC ID: vpc-0e7772ff5b44f4726
+AMI ID: ami-0cd59ecaf368e5ccf
+
+terraform import aws_instance.reactapplication i-01e065d1613af3a39
